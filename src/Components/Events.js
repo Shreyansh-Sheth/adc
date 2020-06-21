@@ -1,0 +1,1 @@
+//Here In This Component We Define How An Event Card Looks Like where We show Banner And Some Text regarding That event

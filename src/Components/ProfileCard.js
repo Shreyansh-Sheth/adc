@@ -1,0 +1,1 @@
+//Here In This Component We Define How An Profile Looks like On Home Page
